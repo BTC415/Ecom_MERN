@@ -48,9 +48,9 @@ Includes eCommerce features like Shopping Cart, Checkout Payment, and Customer O
 First, clone the project and open it with Visual Studio Code:
 
 ```bash
-git clone https://github.com/javigong/travel-nextjs-typescript-tailwind-mapbox-calendar-date-picker.git
+git clone https://github.com/Topcoder415/Ecom_MERN.git
 
-cd travel-nextjs-typescript-tailwind-mapbox-calendar-date-picker
+cd Ecom_MERN
 
 code .
 ```
