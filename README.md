@@ -48,7 +48,7 @@ Includes eCommerce features like Shopping Cart, Checkout Payment, and Customer O
 First, clone the project and open it with Visual Studio Code:
 
 ```bash
-git clone https://github.com/dodger213/Ecom_MERN.git
+git clone https://github.com/BTC415/Ecom_MERN.git
 
 cd Ecom_MERN
 
